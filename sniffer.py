@@ -1,4 +1,4 @@
-import socket
+import socke
 import struct
 
 def ethernet_header(data):
